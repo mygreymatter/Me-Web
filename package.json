@@ -1,0 +1,23 @@
+{
+    "name": "getme",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "author": "mayo",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "^3.3.7",
+        "express": "^4.14.1",
+        "nodemon": "^1.11.0",
+        "simple-line-icons": "^2.4.1",
+        "font-awesome": "^4.7.0",
+        "jquery": "^3.1.1"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.18.8",
+        "dep-linker": "^1.0.24"
+    }
+}
